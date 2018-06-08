@@ -1,5 +1,6 @@
-# Proyecto_sexto_cuatrimestre
-Proyecto sitio web dinamico
+# Sitio web dinamico
+
+Proyecto sexto cuatrimestre
 
 # Tema: 
 -Narcisismo
